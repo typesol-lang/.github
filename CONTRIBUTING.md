@@ -2,8 +2,8 @@
 
 Each repository has its own guide where it needs one; this is the default for the others.
 
-- **Compiler, runtime, CLI, docs:** [typesol/typesol CONTRIBUTING.md](https://github.com/typesol/typesol/blob/main/CONTRIBUTING.md).
-- **Benchmarks:** [typesol/benchmarks](https://github.com/typesol/benchmarks): a change to a program, scenario or the
+- **Compiler, runtime, CLI, docs:** [typesol-lang/typesol CONTRIBUTING.md](https://github.com/typesol-lang/typesol/blob/main/CONTRIBUTING.md).
+- **Benchmarks:** [typesol-lang/benchmarks](https://github.com/typesol-lang/benchmarks): a change to a program, scenario or the
   toolchain comes with the new `results.json` it produces (CI compares a fresh run with it), and is described in
   `CHANGELOG.md`. See its `docs/methodology.md`.
 
