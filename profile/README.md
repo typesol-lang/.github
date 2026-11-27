@@ -41,6 +41,7 @@ export function increment(authority: Signer, counter: Mut<Counter>, by: u64): vo
 | --- | --- |
 | [typesol](https://github.com/typesol-lang/typesol) | The compiler, runtime and CLI (MIT), on npm as [`@typesol/cli`](https://www.npmjs.com/package/@typesol/cli) |
 | [benchmarks](https://github.com/typesol-lang/benchmarks) | TypeSOL, Anchor, native Rust and Pinocchio compared on compute units and binary size, reproducible from a pinned compiler and toolchain (MIT) |
+| [percolator-ts](https://github.com/typesol-lang/percolator-ts) | A port of Percolator v16 to TypeScript, built with `@typesol/cli` from npm and compared with a build of the original Rust source by the author's own test suite (Apache-2.0; unofficial, not audited) |
 
 
 ### Contributing
